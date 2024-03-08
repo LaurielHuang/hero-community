@@ -1,41 +1,47 @@
 <!DOCTYPE html>
 <html>
-  <base href="/community/">
-
 <head>
-  <title>Search Bar Example</title>
-  <style>
-    input[type="text"] {
-      padding: 5px;
-      width: 200px;
-      font-size: 16px;
-    }
-  </style>
+    <!--        <base href="/community/">-->
+    <base href="/community/">
+
+    <meta charset="UTF-8">
+    <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+    <meta name="description" content="A new Flutter project.">
+
+    <!-- iOS meta tags & icons -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="hero_community">
+    <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="favicon.png"/>
+
+    <title>hero_community</title>
+    <link rel="manifest" href="manifest.json">
+
+    <script>
+        // The value below is injected by flutter build, do not touch.
+        const serviceWorkerVersion = "3843016804";
+    </script>
+    <!-- This script adds the flutter initialization JS code -->
+    <script src="flutter.js" defer></script>
 </head>
-
 <body>
-  <input type="text" id="search" placeholder="Search...">
-  <button onclick="search()">Search</button>
-  <p id="output"></p>
-
-  <script>
-    function search() {
-      // Get the value from the input element
-      var searchTerm = document.getElementById('search').value;
-
-      // Perform some processing or logic based on the search term
-      // For example, you can use an if-else statement or a switch statement
-
-      // Simulate a simple example by checking for specific search terms
-      if (searchTerm === 'apple') {
-        document.getElementById('output').innerHTML = 'Search term matched: apple';
-      } else if (searchTerm === 'banana') {
-        document.getElementById('output').innerHTML = 'Search term matched: banana';
-      } else {
-        document.getElementById('output').innerHTML = 'No matching result for the search term: ' + searchTerm;
-      }
-    }
-  </script>
+<script>
+    window.addEventListener('load', function(ev) {
+      // Download main.dart.js
+      _flutter.loader.loadEntrypoint({
+        serviceWorker: {
+          serviceWorkerVersion: serviceWorkerVersion,
+        },
+        onEntrypointLoaded: function(engineInitializer) {
+          engineInitializer.initializeEngine().then(function(appRunner) {
+            appRunner.runApp();
+          });
+        }
+      });
+    });
+</script>
 </body>
-
 </html>
