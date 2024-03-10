@@ -113122,7 +113122,7 @@ Ja(){var s=0,r=A.U(t.z),q,p
 var $async$Ja=A.P(function(a,b){if(a===1)return A.R(b,r)
 while(true)switch(s){case 0:p=A.h5($.aZW()+$.Tq().DP("API_FETCH_SENSORS"),0,null)
 s=3
-return A.X(A.bmi("GET",A.blj(p,$.b_n?A.aI(["per",10,"page",1,"sortDirection",A.boI($.afQ().c)],t.N,t.z):A.bq0($.afQ()))).yP(),$async$Ja)
+return A.X(A.bmi("GET",A.blj(p,$.b_n?A.aI(["per",20,"page",1,"sortDirection",A.boI($.afQ().c)],t.N,t.z):A.bq0($.afQ()))).yP(),$async$Ja)
 case 3:q=b
 s=1
 break
@@ -144725,7 +144725,7 @@ r($,"byB","beB",()=>{var q=$.ber(),p=$.bes(),o=$.b3N(),n=$.bet(),m=$.beu(),l=$.b
 return A.aFc($.ben(),$.beo(),$.beq(),q,p,o,null,n,m,$.bep(),null,$.bew(),l,k,j)})
 s($,"bE1","bhG",()=>A.b6R(null,t.uK))
 r($,"bzx","afQ",()=>new A.atB(1,200,B.ES,B.e2))
-r($,"byj","aZV",()=>new A.atA(1,10,A.G7(A.b5y().pV(B.rF),!1,!1,!1),A.G7(A.b5y(),!1,!1,!1),B.ER,A.b([],t.s)))
+r($,"byj","aZV",()=>new A.atA(1,1000,A.G7(A.b5y().pV(B.rF),!1,!1,!1),A.G7(A.b5y(),!1,!1,!1),B.ER,A.b([],t.s)))
 s($,"byk","aZW",()=>$.Tq().DP("BASE_URL_PROD"))
 r($,"bzk","beV",()=>A.b6R(null,t.Np))
 r($,"bzJ","bf9",()=>A.b13(B.a0g,"Locate devices on a map","","Sensor Map"))
