@@ -112553,7 +112553,7 @@ nK(a){return this.aX8(a)},
 aX8(a){var s=0,r=A.Q(t.z),q
 var $async$nK=A.M(function(b,c){if(b===1)return A.N(c,r)
 while(true)switch(s){case 0:s=3
-return A.S(A.b11("GET",A.fr($.Tm()+"v1/device/"+a+"/public-status}",0,null)).rO(),$async$nK)
+return A.S(A.b11("GET",A.fr($.Tm()+"v1/device/"+a+"/public-status",0,null)).rO(),$async$nK)
 case 3:q=c
 s=1
 break
