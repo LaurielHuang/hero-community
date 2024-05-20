@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "id": "E6FCA5AD-BD7D-4E99-BE1B-F982CBB8751D",
+      "name": "ABC Corp",
+      "links": [
+        "https://www.abccorp.com",
+        "https://www.abccorp.com/promotions"
+      ]
+    },
+    {
+      "id": "62E8FEE5-1A40-4A2C-82E8-FC8C8D0A65C5",
+      "name": "123 Enterprises",
+      "links": [
+        "https://www.123enterprises.com",
+        "https://www.123enterprises.com/promotions",
+        "https://www.123enterprises.com/events"
+      ]
+    }
+  ]
+}
