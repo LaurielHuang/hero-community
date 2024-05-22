@@ -1,0 +1,811 @@
+{
+  "error": false,
+  "reason": "",
+  "items": [
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.75",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-21 03:00:30.121"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "8.45",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-21 02:45:22.610"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "8.59",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-21 02:44:30.275"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.16",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-21 02:31:29.936"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.49",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-21 02:02:29.858"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.31",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-21 01:33:29.829"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.49",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-21 01:04:29.836"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.99",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-21 00:35:29.846"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.59",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-21 00:06:29.565"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.67",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 23:37:29.763"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.84",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 23:08:29.750"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.99",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 22:39:29.727"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.87",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 22:10:29.803"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.41",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 21:41:29.646"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.42",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 21:12:29.626"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.88",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 20:43:29.425"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.27",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 20:14:29.489"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.37",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 19:45:29.715"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.31",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 19:16:29.488"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.99",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 18:47:29.466"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.06",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 18:18:29.518"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "8.81",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 17:49:43.032"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.51",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 17:49:29.602"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.90",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 17:20:29.589"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.87",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 16:51:29.434"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.92",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 16:22:29.497"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.27",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 15:53:29.434"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.49",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 15:24:29.334"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.58",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 14:55:29.406"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.02",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 14:26:29.542"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.62",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 13:57:29.408"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.83",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 13:28:29.263"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.80",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 12:59:29.122"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.46",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 12:30:29.211"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.17",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 12:01:29.202"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.89",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 11:32:29.200"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.98",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 11:03:29.025"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.69",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 10:34:29.436"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.52",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 10:05:29.223"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.87",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 09:36:29.127"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.08",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 09:07:28.991"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.30",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 08:38:28.988"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.24",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 08:09:28.984"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.44",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-20 07:40:29.572"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.58",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-19 23:56:29.032"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "8.84",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 23:46:28.728"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "8.62",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 19:22:05.522"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "8.33",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 18:57:53.232"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.74",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 18:56:28.144"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "12.65",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 18:27:27.384"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "12.13",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 17:58:27.632"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.52",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 17:29:27.815"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.82",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 17:00:27.608"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "12.09",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 16:31:27.420"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.52",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 16:02:27.357"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "12.40",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 15:33:27.482"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "12.09",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 15:04:27.609"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.77",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 14:35:27.587"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.68",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 14:06:27.512"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "8.76",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 13:37:43.381"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "12.27",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 13:37:27.435"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.53",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 13:08:27.268"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.51",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 12:39:27.367"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.81",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 12:10:27.247"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.38",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 11:41:27.358"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.66",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 11:12:27.537"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.42",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 10:43:27.560"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.38",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 10:14:27.379"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.65",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 09:45:27.323"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.22",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 09:16:27.281"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.83",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 08:47:27.235"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.92",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 08:18:27.443"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.20",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 07:49:27.447"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.95",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 07:20:27.295"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.82",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 06:51:27.331"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "11.13",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 06:22:27.236"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.49",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 05:53:27.313"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.75",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 05:24:27.408"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.65",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 04:55:27.232"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.91",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 04:26:26.992"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.55",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 03:57:27.200"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.98",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 03:28:27.188"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.54",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 02:59:27.328"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.28",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 02:30:27.246"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.37",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 02:01:27.328"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.24",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 01:32:27.384"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.57",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 01:03:26.931"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "10.27",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 00:34:27.175"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.35",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-18 00:05:27.445"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "8.44",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-17 23:36:28.473"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "7.22",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 21:30:04.930"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "7.05",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 21:29:40.459"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "7.56",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 21:28:28.879"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "8.97",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 21:17:47.743"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.13",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 20:47:47.939"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.14",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 20:17:47.784"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.27",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 19:47:47.568"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.35",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 19:17:47.806"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.44",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 18:47:48.273"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.83",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 18:17:47.693"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.40",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 17:47:47.773"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.73",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 17:17:47.452"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "7.98",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 16:47:55.226"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "8.80",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 16:47:47.854"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.04",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 16:17:47.453"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.73",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 15:47:47.427"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.18",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 15:17:47.414"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.10",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 14:47:48.123"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.01",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 14:17:47.499"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.17",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 13:47:47.490"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.61",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 13:17:47.475"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.73",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 12:47:47.670"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "8.94",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 12:17:47.628"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.20",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 11:47:47.754"
+    },
+    {
+      "longitude": "121.75",
+      "deviceId": "716D3C72-37E6-48B0-B6AE-B2F358419C0B",
+      "gal": "9.25",
+      "latitude": "24.69",
+      "serverTimestamp": "2024-05-15 11:17:47.542"
+    }
+  ]
+}
