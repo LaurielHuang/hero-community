@@ -113342,7 +113342,7 @@ n=t.j
 m=J
 l=B.bB
 s=4
-return A.Y($.o0().Ss("data/sponsor.json"),$async$Ao)
+return A.Y($.o0().Ss("assets/data/sponsor.json"),$async$Ao)
 case 4:s=3
 return A.Y(p.Sd(o.bx0(n.a(m.bA(l.ha(0,b),"items")))),$async$Ao)
 case 3:q=b
