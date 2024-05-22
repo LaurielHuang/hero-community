@@ -3,176 +3,8 @@
     {
       "id": "30BA8766-A869-45A1-A56B-237C09FFED01",
       "deviceId": "Yilan-Loudong-0001",
-      "shakingReportNumber": 163,
-      "deviceType": "mobile",
-      "shortLocation": "265宜蘭縣羅東鎮公正路154號",
-      "locationSponsor": {
-        "links": [
-          {
-            "link": "https://g.co/kgs/HyDPD6r",
-            "type": "others"
-          },
-          {
-            "type": "others",
-            "link": "265宜蘭縣羅東鎮公正路154號"
-          }
-        ],
-        "name": "博文牙醫診所"
-      },
-      "createdAt": "2024-02-07T09:19:17Z",
-      "installation": "normal",
-      "uptimeMinute": 150358,
-      "status": "active",
-      "latitude": "24.787539",
-      "earthquakeNumber": 2,
-      "longitude": "121.800498",
-      "deviceSponsor": {
-        "links": [
-          {
-            "link": "https://g.co/kgs/HyDPD6r",
-            "type": "others"
-          },
-          {
-            "type": "others",
-            "link": "265宜蘭縣羅東鎮公正路154號"
-          }
-        ],
-        "name": "博文牙醫診所"
-      },
-      "activeRatio": 0.92,
-      "inactiveRatio": 0.08,
-      "shakingReportOneWeekPerDay": [
-        0,
-        4,
-        0,
-        7,
-        8,
-        10,
-        3
-      ]
-    },
-    {
-      "id": "44462B61-5158-4D15-ABA9-BDF76618D4FB",
-      "deviceId": "Yilan-Sanxing-0001",
-      "shortLocation": "265宜蘭縣羅東鎮公正路154號",
-      "shakingReportNumber": 46,
-      "deviceType": "mobile",
-      "locationSponsor": {
-        "links": [
-          {
-            "link": "https://www.facebook.com/greenhorseland/",
-            "type": "facebook"
-          },
-          {
-            "type": "others",
-            "link": "ghlss2022@gmail.com"
-          }
-        ],
-        "name": "青青馬場"
-      },
-      "createdAt": "2024-03-13T10:32:29Z",
-      "installation": "normal",
-      "uptimeMinute": 100508,
-      "status": "inactive",
-      "latitude": "24.723672",
-      "earthquakeNumber": 0,
-      "longitude": "121.736284",
-      "deviceSponsor": {
-        "links": [
-          {
-            "link": "https://www.facebook.com/greenhorseland/",
-            "type": "facebook"
-          },
-          {
-            "type": "others",
-            "link": "ghlss2022@gmail.com"
-          }
-        ],
-        "name": "青青馬場"
-      },
-      "activeRatio": 0.95,
-      "inactiveRatio": 0.05,
-      "shakingReportOneWeekPerDay": [
-        4,
-        22,
-        18,
-        10,
-        8,
-        0,
-        0
-      ]
-    },
-    {
-      "id": "1EF44D8C-5912-41F2-98AE-A66E303BB1D6",
-      "deviceId": "Yilan-Yilan-0001",
-      "shortLocation": "265宜蘭縣羅東鎮公正路154號",
-      "shakingReportNumber": 48,
-      "deviceType": "mobile",
-      "locationSponsor": {
-        "links": [
-          {
-            "link": "https://shop.vanger.com.tw",
-            "type": "homepage"
-          },
-          {
-            "type": "instagram",
-            "link": "https://www.instagram.com/vangershoes/"
-          },
-          {
-            "type": "line",
-            "link": "https://page.line.me/?accountId=vangershoes&openerPlatform=native&openerKey=home%3Arecommend"
-          },
-          {
-            "type": "facebook",
-            "link": "https://www.facebook.com/vangermenshoes"
-          }
-        ],
-        "name": "Vanger"
-      },
-      "createdAt": "2024-03-13T14:22:49Z",
-      "installation": "normal",
-      "uptimeMinute": 100397,
-      "status": "inactive",
-      "latitude": "24.658979",
-      "earthquakeNumber": 0,
-      "longitude": "121.823213",
-      "deviceSponsor": {
-        "links": [
-          {
-            "link": "https://shop.vanger.com.tw",
-            "type": "homepage"
-          },
-          {
-            "type": "instagram",
-            "link": "https://www.instagram.com/vangershoes/"
-          },
-          {
-            "type": "line",
-            "link": "https://page.line.me/?accountId=vangershoes&openerPlatform=native&openerKey=home%3Arecommend"
-          },
-          {
-            "type": "facebook",
-            "link": "https://www.facebook.com/vangermenshoes"
-          }
-        ],
-        "name": "Vanger"
-      },
-      "activeRatio": 0.95,
-      "inactiveRatio": 0.05,
-      "shakingReportOneWeekPerDay": [
-        0,
-        3,
-        1,
-        8,
-        9,
-        0,
-        0
-      ]
-    },
-    {
-      "id": "30BA8766-A869-45A1-A56B-237C09FFED01",
-      "deviceId": "Yilan-Loudong-0001",
-      "shortLocation": "265宜蘭縣羅東鎮公正路154號",
+      "shortLocation": "宜蘭縣羅東鎮",
+      "address": "宜蘭縣羅東鎮公正路154號",
       "shakingReportNumber": 163,
       "deviceType": "mobile",
       "locationSponsor": {
@@ -223,8 +55,9 @@
     {
       "id": "44462B61-5158-4D15-ABA9-BDF76618D4FB",
       "deviceId": "Yilan-Sanxing-0001",
-      "shortLocation": "265宜蘭縣羅東鎮公正路154號",
+      "shortLocation": "宜蘭縣宜蘭市",
       "shakingReportNumber": 46,
+      "address": "宜蘭縣羅東鎮公正路154號",
       "deviceType": "mobile",
       "locationSponsor": {
         "links": [
@@ -274,7 +107,7 @@
     {
       "id": "1EF44D8C-5912-41F2-98AE-A66E303BB1D6",
       "deviceId": "Yilan-Yilan-0001",
-      "shortLocation": "265宜蘭縣羅東鎮公正路154號",
+      "shortLocation": "花蓮縣花蓮市",
       "shakingReportNumber": 48,
       "deviceType": "mobile",
       "locationSponsor": {
@@ -341,7 +174,8 @@
     {
       "id": "2B3C4D5E-6789-0123-4567-890123456789",
       "deviceId": "Taipei-101-0001",
-      "shortLocation": "265宜蘭縣羅東鎮公正路154號",
+      "shortLocation": "宜蘭縣羅東鎮",
+      "address": "宜蘭縣羅東鎮公正路154號",
       "shakingReportNumber": 120,
       "deviceType": "mobile",
       "locationSponsor": {
@@ -384,7 +218,7 @@
     {
       "id": "3C4D5E6F-7890-1234-5678-901234567890",
       "deviceId": "Taichung-ParkLane-0001",
-      "shortLocation": "265宜蘭縣羅東鎮公正路154號",
+      "shortLocation": "新竹市",
       "shakingReportNumber": 95,
       "deviceType": "mobile",
       "locationSponsor": {
@@ -427,7 +261,7 @@
     {
       "id": "4D5E6F7G-8901-2345-6789-012345678901",
       "deviceId": "Kaohsiung-DreamMall-0001",
-      "shortLocation": "265宜蘭縣羅東鎮公正路154號",
+      "shortLocation": "台北市信義區",
       "shakingReportNumber": 110,
       "deviceType": "mobile",
       "locationSponsor": {
@@ -471,7 +305,7 @@
       "id": "5E6F7G8H-9012-3456-7890-123456789012",
       "deviceId": "Hsinchu-SiliconTech-0001",
       "shakingReportNumber": 130,
-      "shortLocation": "265宜蘭縣羅東鎮公正路154號",
+      "shortLocation": "南投縣埔里鎮",
       "deviceType": "mobile",
       "locationSponsor": {
         "links": [
@@ -514,7 +348,7 @@
       "id": "6F7G8H9I-0123-4567-8901-234567890123",
       "deviceId": "Hualien-OceanPark-0001",
       "shakingReportNumber": 60,
-      "shortLocation": "265宜蘭縣羅東鎮公正路154號",
+      "shortLocation": "台中市西屯區",
       "deviceType": "mobile",
       "locationSponsor": {
         "links": [
@@ -558,7 +392,7 @@
       "deviceId": "Tainan-ChimeiMuseum-0001",
       "shakingReportNumber": 140,
       "deviceType": "mobile",
-      "shortLocation": "265宜蘭縣羅東鎮公正路154號",
+      "shortLocation": "宜蘭縣頭城鎮",
       "locationSponsor": {
         "links": [
           {
@@ -601,16 +435,7 @@
       "deviceId": "Chiayi-AliMountain-0001",
       "shakingReportNumber": 100,
       "deviceType": "mobile",
-      "shortLocation": "265宜蘭縣羅東鎮公正路154號",
-      "locationSponsor": {
-        "links": [
-          {
-            "link": "https://www.ali-mountain.com.tw",
-            "type": "homepage"
-          }
-        ],
-        "name": "阿里山"
-      },
+      "shortLocation": "台北市南港區",
       "createdAt": "2024-03-15T09:00:00Z",
       "installation": "normal",
       "uptimeMinute": 136275,
@@ -644,7 +469,7 @@
       "deviceId": "Taoyuan-AirportMRT-0001",
       "shakingReportNumber": 85,
       "deviceType": "mobile",
-      "shortLocation": "265宜蘭縣羅東鎮公正路154號",
+      "shortLocation": "宜蘭縣頭城鎮",
       "locationSponsor": {
         "links": [
           {
@@ -703,16 +528,7 @@
       "latitude": "24.612133",
       "earthquakeNumber": 2,
       "longitude": "120.816644",
-      "shortLocation": "高鐵苗栗站",
-      "deviceSponsor": {
-        "links": [
-          {
-            "link": "https://www.hsrc.com.tw",
-            "type": "homepage"
-          }
-        ],
-        "name": "高鐵苗栗站"
-      },
+      "shortLocation": "新竹縣六家",
       "activeRatio": 0.91,
       "inactiveRatio": 0.09,
       "shakingReportOneWeekPerDay": [
