@@ -11,12 +11,12 @@
         ],
         "name": "新竹黃小姐"
       },
-      "createdAt": "2024-01-15T10:00:00Z",
+      "createdAt": "2024-01-15T10:34:02Z",
       "installation": "normal",
       "uptimeMinute": 178515,
       "status": "active",
       "latitude": "24.764630576717078",
-      "earthquakeNumber": 1,
+      "earthquakeNumber": 0,
       "longitude": "120.94242988650186",
       "deviceSponsor": {
         "links": [
@@ -26,13 +26,13 @@
       "activeRatio": 0.90,
       "inactiveRatio": 0.10,
       "shakingReportOneWeekPerDay": [
-        5,
-        4,
-        6,
-        3,
-        7,
-        2,
-        1
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ]
     },
     {
@@ -46,7 +46,7 @@
         ],
         "name": "冬山陳先生"
       },
-      "createdAt": "2024-01-15T10:00:00Z",
+      "createdAt": "2024-01-15T10:36:54Z",
       "installation": "normal",
       "uptimeMinute": 178515,
       "status": "active",
@@ -61,13 +61,13 @@
       "activeRatio": 0.90,
       "inactiveRatio": 0.10,
       "shakingReportOneWeekPerDay": [
-        5,
-        4,
-        6,
-        3,
-        7,
+        0,
         2,
-        1
+        0,
+        0,
+        0,
+        1,
+        0
       ]
     },
     {
@@ -86,7 +86,7 @@
         ],
         "name": "頭城農場"
       },
-      "createdAt": "2024-02-10T14:00:00Z",
+      "createdAt": "2024-02-10T14:16:23Z",
       "installation": "normal",
       "uptimeMinute": 145395,
       "status": "active",
@@ -105,13 +105,13 @@
       "activeRatio": 0.91,
       "inactiveRatio": 0.09,
       "shakingReportOneWeekPerDay": [
-        6,
-        5,
-        4,
+        0,
         3,
-        2,
+        0,
         1,
-        7
+        0,
+        0,
+        0
       ]
     },
     {
@@ -125,12 +125,12 @@
         ],
         "name": "宜蘭方小姐"
       },
-      "createdAt": "2024-03-05T12:00:00Z",
+      "createdAt": "2024-03-05T12:02:31Z",
       "installation": "normal",
       "uptimeMinute": 130275,
       "status": "active",
       "latitude": "24.74650259042756",
-      "earthquakeNumber": 2,
+      "earthquakeNumber": 0,
       "longitude": "121.76090529625921",
       "deviceSponsor": {
         "links": [
@@ -140,13 +140,13 @@
       "activeRatio": 0.92,
       "inactiveRatio": 0.08,
       "shakingReportOneWeekPerDay": [
-        7,
-        6,
-        5,
-        4,
-        3,
-        2,
-        1
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
       ]
     },
     {
@@ -160,12 +160,12 @@
         ],
         "name": "頭城楊小姐"
       },
-      "createdAt": "2024-04-01T08:00:00Z",
+      "createdAt": "2024-04-01T08:06:46Z",
       "installation": "normal",
       "uptimeMinute": 113235,
       "status": "active",
       "latitude": "24.857816491062017",
-      "earthquakeNumber": 2,
+      "earthquakeNumber": 0,
       "longitude": "121.83084354812911",
       "deviceSponsor": {
         "links": [
@@ -175,13 +175,13 @@
       "activeRatio": 0.93,
       "inactiveRatio": 0.07,
       "shakingReportOneWeekPerDay": [
-        5,
-        4,
-        3,
-        2,
-        1,
-        7,
-        6
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ]
     },
     {
@@ -199,12 +199,12 @@
         ],
         "name": "安農沈小姐"
       },
-      "createdAt": "2024-01-20T10:00:00Z",
+      "createdAt": "2024-01-20T10:27:45Z",
       "installation": "normal",
       "uptimeMinute": 171315,
       "status": "active",
       "latitude": "24.692531671827673",
-      "earthquakeNumber": 1,
+      "earthquakeNumber": 0,
       "longitude": "121.73806024057217",
       "deviceSponsor": {
         "links": [
@@ -218,13 +218,13 @@
       "activeRatio": 0.90,
       "inactiveRatio": 0.10,
       "shakingReportOneWeekPerDay": [
-        4,
-        3,
-        2,
-        1,
-        7,
-        6,
-        5
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ]
     },
     {
@@ -251,12 +251,12 @@
         ],
         "name": "Healtdeva 赫蒂法莊園"
       },
-      "createdAt": "2024-02-25T11:00:00Z",
+      "createdAt": "2024-02-25T11:32:11Z",
       "installation": "normal",
       "uptimeMinute": 156195,
       "status": "active",
       "latitude": "24.65550284425811",
-      "earthquakeNumber": 2,
+      "earthquakeNumber": 1,
       "longitude": "121.83212629482131",
       "deviceSponsor": {
         "links": [
@@ -278,13 +278,13 @@
       "activeRatio": 0.94,
       "inactiveRatio": 0.06,
       "shakingReportOneWeekPerDay": [
-        3,
+        0,
         2,
-        1,
-        7,
-        6,
-        5,
-        4
+        0,
+        0,
+        0,
+        0,
+        0
       ]
     },
     {
@@ -294,12 +294,12 @@
       "deviceType": "mobile",
       "shortLocation": "宜蘭縣五結鄉",
       "address": "宜蘭縣五結鄉利工二路68號",
-      "createdAt": "2024-03-15T09:00:00Z",
+      "createdAt": "2024-03-15T09:21:43Z",
       "installation": "normal",
       "uptimeMinute": 136275,
       "status": "active",
       "latitude": "24.65484864694485",
-      "earthquakeNumber": 1,
+      "earthquakeNumber": 0,
       "longitude": "121.83716447864728",
       "deviceSponsor": {
         "links": [
@@ -322,13 +322,13 @@
       "activeRatio": 0.92,
       "inactiveRatio": 0.08,
       "shakingReportOneWeekPerDay": [
-        2,
+        0,
         1,
-        7,
-        6,
-        5,
-        4,
-        3
+        0,
+        0,
+        0,
+        2,
+        0
       ]
     },
     {
@@ -355,12 +355,12 @@
         ],
         "name": "Vanger手工真皮男鞋(台南南紡一館門市)"
       },
-      "createdAt": "2024-04-10T14:00:00Z",
+      "createdAt": "2024-04-10T14:27:54Z",
       "installation": "normal",
       "uptimeMinute": 107595,
       "status": "active",
       "latitude": "22.99100977964642",
-      "earthquakeNumber": 2,
+      "earthquakeNumber": 0,
       "longitude": "120.23270137696437",
       "deviceSponsor": {
         "links": [
@@ -382,13 +382,13 @@
       "activeRatio": 0.93,
       "inactiveRatio": 0.07,
       "shakingReportOneWeekPerDay": [
-        7,
-        6,
-        5,
-        4,
-        3,
-        2,
-        1
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ]
     },
     {
@@ -415,12 +415,12 @@
         ],
         "name": "Vanger手工真皮男鞋(台中綠園道店)"
       },
-      "createdAt": "2024-04-10T14:00:00Z",
+      "createdAt": "2024-04-10T14:31:04Z",
       "installation": "normal",
       "uptimeMinute": 107595,
       "status": "active",
       "latitude": "24.150136303565198",
-      "earthquakeNumber": 2,
+      "earthquakeNumber": 0,
       "longitude": "120.66281199603736",
       "deviceSponsor": {
         "links": [
@@ -442,13 +442,13 @@
       "activeRatio": 0.93,
       "inactiveRatio": 0.07,
       "shakingReportOneWeekPerDay": [
-        7,
-        6,
-        5,
-        4,
-        3,
-        2,
-        1
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ]
     },
     {
@@ -475,12 +475,12 @@
         ],
         "name": "Vanger手工真皮男鞋(台北南西誠品)"
       },
-      "createdAt": "2024-04-10T14:00:00Z",
+      "createdAt": "2024-04-10T14:51:21Z",
       "installation": "normal",
       "uptimeMinute": 107595,
       "status": "active",
       "latitude": "25.052296709158217",
-      "earthquakeNumber": 2,
+      "earthquakeNumber": 0,
       "longitude": "121.52074136907783",
       "deviceSponsor": {
         "links": [
@@ -502,13 +502,13 @@
       "activeRatio": 0.93,
       "inactiveRatio": 0.07,
       "shakingReportOneWeekPerDay": [
-        7,
-        6,
-        5,
-        4,
-        3,
-        2,
-        1
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ]
     },
     {
@@ -535,12 +535,12 @@
         ],
         "name": "Vanger手工真皮男鞋(台北東區)"
       },
-      "createdAt": "2024-04-10T14:00:00Z",
+      "createdAt": "2024-04-10T14:56:43Z",
       "installation": "normal",
       "uptimeMinute": 107595,
       "status": "active",
       "latitude": "25.04414477265204",
-      "earthquakeNumber": 2,
+      "earthquakeNumber": 1,
       "longitude": "121.55313172344188",
       "deviceSponsor": {
         "links": [
@@ -562,13 +562,13 @@
       "activeRatio": 0.93,
       "inactiveRatio": 0.07,
       "shakingReportOneWeekPerDay": [
-        7,
-        6,
-        5,
-        4,
-        3,
-        2,
-        1
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ]
     },
     {
@@ -595,12 +595,12 @@
         ],
         "name": "Vanger手工真皮男鞋(信義遠百)"
       },
-      "createdAt": "2024-04-10T14:00:00Z",
+      "createdAt": "2024-04-10T14:34:25Z",
       "installation": "normal",
       "uptimeMinute": 107595,
       "status": "active",
       "latitude": "25.036969571249905",
-      "earthquakeNumber": 2,
+      "earthquakeNumber": 0,
       "longitude": "121.56797805373539",
       "deviceSponsor": {
         "links": [
@@ -622,13 +622,13 @@
       "activeRatio": 0.93,
       "inactiveRatio": 0.07,
       "shakingReportOneWeekPerDay": [
-        7,
-        6,
-        5,
-        4,
-        3,
-        2,
-        1
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ]
     },
     {
@@ -655,12 +655,12 @@
         ],
         "name": "Vanger手工真皮男鞋(裕隆門市)"
       },
-      "createdAt": "2024-04-10T14:00:00Z",
+      "createdAt": "2024-04-10T14:12:42Z",
       "installation": "normal",
       "uptimeMinute": 107595,
       "status": "active",
       "latitude": "24.97802453142753",
-      "earthquakeNumber": 2,
+      "earthquakeNumber": 0,
       "longitude": "121.5465142819377",
       "deviceSponsor": {
         "links": [
@@ -682,12 +682,11 @@
       "activeRatio": 0.93,
       "inactiveRatio": 0.07,
       "shakingReportOneWeekPerDay": [
-        7,
-        6,
-        5,
-        4,
-        3,
-        2,
+        0,
+        0,
+        0,
+        0,
+        0,
         1
       ]
     },
@@ -714,25 +713,25 @@
         ],
         "name": "宋金玉地政士事務所"
       },
-      "createdAt": "2024-01-30T08:00:00Z",
+      "createdAt": "2024-01-30T08:45:34Z",
       "installation": "normal",
       "uptimeMinute": 166275,
       "status": "active",
       "latitude": "23.96660",
-      "earthquakeNumber": 2,
+      "earthquakeNumber": 0,
       "longitude": "120.97068",
       "shortLocation": "南投縣埔里鎮",
       "address": "545南投縣埔里鎮東榮路243號",
       "activeRatio": 0.91,
       "inactiveRatio": 0.09,
       "shakingReportOneWeekPerDay": [
-        6,
-        5,
-        4,
-        3,
-        2,
-        1,
-        7
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ]
     },
     {
@@ -747,7 +746,7 @@
             "type": "others"
           }
         ],
-        "name": "板橋梁靜茹"
+        "name": "板橋梁小姐"
       },
       "locationSponsor": {
         "links": [
@@ -756,26 +755,26 @@
             "type": "homepage"
           }
         ],
-        "name": "板橋梁靜茹"
+        "name": "板橋梁小姐"
       },
-      "createdAt": "2024-01-30T08:00:00Z",
+      "createdAt": "2024-01-30T08:07:02Z",
       "installation": "normal",
       "uptimeMinute": 166275,
       "status": "active",
       "latitude": "25.02286",
-      "earthquakeNumber": 2,
+      "earthquakeNumber": 0,
       "longitude": "121.45193",
       "shortLocation": "新北市板橋區",
       "activeRatio": 0.91,
       "inactiveRatio": 0.09,
       "shakingReportOneWeekPerDay": [
-        6,
-        5,
-        4,
-        3,
-        2,
-        1,
-        7
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ]
     },
     {
@@ -783,7 +782,6 @@
       "deviceId": "Tainan-Annan-0001",
       "shortLocation": "台南市安南區",
       "shakingReportNumber": 12,
-      "address": "709台南市安南區公學路二段",
       "deviceType": "mobile",
       "locationSponsor": {
         "links": [],
