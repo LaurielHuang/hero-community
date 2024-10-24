@@ -23,8 +23,8 @@
         ],
         "name": "新竹黃小姐"
       },
-      "activeRatio": 0.90,
-      "inactiveRatio": 0.10,
+      "activeRatio": 0.9130,
+      "inactiveRatio": 0.0970,
       "shakingReportOneWeekPerDay": [
         0,
         0,
@@ -58,8 +58,8 @@
         ],
         "name": "冬山陳先生"
       },
-      "activeRatio": 0.90,
-      "inactiveRatio": 0.10,
+      "activeRatio": 0.9025,
+      "inactiveRatio": 0.0975,
       "shakingReportOneWeekPerDay": [
         0,
         2,
@@ -102,8 +102,8 @@
         ],
         "name": "頭城農場"
       },
-      "activeRatio": 0.91,
-      "inactiveRatio": 0.09,
+      "activeRatio": 0.916,
+      "inactiveRatio": 0.094,
       "shakingReportOneWeekPerDay": [
         0,
         3,
@@ -137,8 +137,8 @@
         ],
         "name": "宜蘭方小姐"
       },
-      "activeRatio": 0.92,
-      "inactiveRatio": 0.08,
+      "activeRatio": 0.923,
+      "inactiveRatio": 0.087,
       "shakingReportOneWeekPerDay": [
         0,
         0,
@@ -172,8 +172,8 @@
         ],
         "name": "頭城楊小姐"
       },
-      "activeRatio": 0.93,
-      "inactiveRatio": 0.07,
+      "activeRatio": 0.932,
+      "inactiveRatio": 0.078,
       "shakingReportOneWeekPerDay": [
         0,
         0,
@@ -215,8 +215,8 @@
         ],
         "name": "安農沈小姐"
       },
-      "activeRatio": 0.90,
-      "inactiveRatio": 0.10,
+      "activeRatio": 0.9050,
+      "inactiveRatio": 0.0950,
       "shakingReportOneWeekPerDay": [
         0,
         0,
@@ -275,8 +275,8 @@
         ],
         "name": "Healtdeva 赫蒂法莊園"
       },
-      "activeRatio": 0.94,
-      "inactiveRatio": 0.06,
+      "activeRatio": 0.943,
+      "inactiveRatio": 0.067,
       "shakingReportOneWeekPerDay": [
         0,
         2,
@@ -319,8 +319,8 @@
         ],
         "name": "博越科技股份有限公司"
       },
-      "activeRatio": 0.92,
-      "inactiveRatio": 0.08,
+      "activeRatio": 0.926,
+      "inactiveRatio": 0.084,
       "shakingReportOneWeekPerDay": [
         0,
         1,
@@ -379,8 +379,8 @@
         ],
         "name": "Vanger手工真皮男鞋(台南南紡一館門市)"
       },
-      "activeRatio": 0.93,
-      "inactiveRatio": 0.07,
+      "activeRatio": 0.939,
+      "inactiveRatio": 0.071,
       "shakingReportOneWeekPerDay": [
         0,
         0,
@@ -439,8 +439,8 @@
         ],
         "name": "Vanger手工真皮男鞋(台中綠園道店)"
       },
-      "activeRatio": 0.93,
-      "inactiveRatio": 0.07,
+      "activeRatio": 0.932,
+      "inactiveRatio": 0.078,
       "shakingReportOneWeekPerDay": [
         0,
         0,
@@ -499,8 +499,8 @@
         ],
         "name": "Vanger手工真皮男鞋(台北南西誠品)"
       },
-      "activeRatio": 0.93,
-      "inactiveRatio": 0.07,
+      "activeRatio": 0.9830,
+      "inactiveRatio": 0.0270,
       "shakingReportOneWeekPerDay": [
         0,
         0,
@@ -559,8 +559,8 @@
         ],
         "name": "Vanger手工真皮男鞋(台北東區)"
       },
-      "activeRatio": 0.93,
-      "inactiveRatio": 0.07,
+      "activeRatio": 0.9353,
+      "inactiveRatio": 0.0757,
       "shakingReportOneWeekPerDay": [
         0,
         0,
@@ -619,8 +619,8 @@
         ],
         "name": "Vanger手工真皮男鞋(信義遠百)"
       },
-      "activeRatio": 0.93,
-      "inactiveRatio": 0.07,
+      "activeRatio": 0.934,
+      "inactiveRatio": 0.076,
       "shakingReportOneWeekPerDay": [
         0,
         0,
@@ -679,8 +679,8 @@
         ],
         "name": "Vanger手工真皮男鞋(裕隆門市)"
       },
-      "activeRatio": 0.93,
-      "inactiveRatio": 0.07,
+      "activeRatio": 0.933,
+      "inactiveRatio": 0.077,
       "shakingReportOneWeekPerDay": [
         0,
         0,
@@ -722,8 +722,8 @@
       "longitude": "120.97068",
       "shortLocation": "南投縣埔里鎮",
       "address": "545南投縣埔里鎮東榮路243號",
-      "activeRatio": 0.91,
-      "inactiveRatio": 0.09,
+      "activeRatio": 0.9350,
+      "inactiveRatio": 0.0750,
       "shakingReportOneWeekPerDay": [
         0,
         0,
@@ -765,8 +765,8 @@
       "earthquakeNumber": 0,
       "longitude": "121.45193",
       "shortLocation": "新北市板橋區",
-      "activeRatio": 0.91,
-      "inactiveRatio": 0.09,
+      "activeRatio": 0.916,
+      "inactiveRatio": 0.094,
       "shakingReportOneWeekPerDay": [
         0,
         0,
@@ -798,8 +798,8 @@
         "links": [],
         "name": "台南黃先生"
       },
-      "activeRatio": 0.98,
-      "inactiveRatio": 0.02,
+      "activeRatio": 0.9250,
+      "inactiveRatio": 0.0850,
       "shakingReportOneWeekPerDay": [
         0,
         1,

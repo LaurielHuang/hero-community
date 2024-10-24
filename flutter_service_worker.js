@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "64f22c7b58ab9b775b5f9077f005fa87",
+const RESOURCES = {"flutter_bootstrap.js": "0527b98fc36c4b7d0d939ec1869af206",
 "version.json": "404b1d0c23967606f0ff6aa720ee261e",
-"index.html": "9d43db71f8523178756f7f09d899a576",
-"/": "9d43db71f8523178756f7f09d899a576",
+"index.html": "42c19658db32d8295568e7039ad39098",
+"/": "42c19658db32d8295568e7039ad39098",
 "main.dart.js": "15b8e72d6b24ee98e4ee3782a5e1b4a0",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
 "favicon.png": "e5393f83f41c3141e855d1898d4578b0",
@@ -93,7 +93,7 @@ const RESOURCES = {"flutter_bootstrap.js": "64f22c7b58ab9b775b5f9077f005fa87",
 "assets/assets/icons/folder.svg": "8496be031efc9b30468329278c861759",
 "assets/assets/icons/Documents.svg": "c0c7e524fc9039b00c30448e31763f07",
 "assets/assets/icons/one_drive.svg": "cf9b18851934639307644c07539343f7",
-"assets/assets/data/sponsor.json": "3ff2671b1820a10e5bc36d5c23285b47",
+"assets/assets/data/sponsor.json": "4a9aa3c2c17582428b0578288cf0822f",
 "canvaskit/skwasm.js": "5d4f9263ec93efeb022bb14a3881d240",
 "canvaskit/skwasm.js.symbols": "c3c05bd50bdf59da8626bbe446ce65a3",
 "canvaskit/canvaskit.js.symbols": "74a84c23f5ada42fe063514c587968c6",
