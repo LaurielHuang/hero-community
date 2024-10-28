@@ -1,6 +1,124 @@
 {
   "items": [
     {
+      "id": "9I0J1K2L-34e6-7890-1234-537893123456",
+      "deviceId": "Taipei-ZhongShan-0001",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "台北市中山區",
+      "address": "台北市中山區南京西路14號4F",
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "https://shop.vanger.com.tw/pages/store",
+            "type": "homepage"
+          },
+          {
+            "type": "facebook",
+            "link": "https://www.facebook.com/vangermenshoes/?locale=zh_TW"
+          },
+          {
+            "type": "instagram",
+            "link": "https://www.instagram.com/vangershoes/"
+          }
+        ],
+        "name": "Vanger手工真皮男鞋(台北南西誠品)"
+      },
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "25.052296709158217",
+      "earthquakeNumber": 0,
+      "longitude": "121.52074136907783",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "https://shop.vanger.com.tw/pages/store",
+            "type": "homepage"
+          },
+          {
+            "type": "facebook",
+            "link": "https://www.facebook.com/vangermenshoes/?locale=zh_TW"
+          },
+          {
+            "type": "instagram",
+            "link": "https://www.instagram.com/vangershoes/"
+          }
+        ],
+        "name": "Vanger手工真皮男鞋(台北南西誠品)"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "9I0J3K2L-3re6-7890-1234-537893123456",
+      "deviceId": "Tainan-Dong-0001",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "台南市東區",
+      "address": "台南市東區中華東路一段366號3樓",
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "https://shop.vanger.com.tw/pages/store",
+            "type": "homepage"
+          },
+          {
+            "type": "facebook",
+            "link": "https://www.facebook.com/vangermenshoes/?locale=zh_TW"
+          },
+          {
+            "type": "instagram",
+            "link": "https://www.instagram.com/vangershoes/"
+          }
+        ],
+        "name": "Vanger手工真皮男鞋(台南南紡一館門市)"
+      },
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "22.99100977964642",
+      "earthquakeNumber": 0,
+      "longitude": "120.23270137696437",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "https://shop.vanger.com.tw/pages/store",
+            "type": "homepage"
+          },
+          {
+            "type": "facebook",
+            "link": "https://www.facebook.com/vangermenshoes/?locale=zh_TW"
+          },
+          {
+            "type": "instagram",
+            "link": "https://www.instagram.com/vangershoes/"
+          }
+        ],
+        "name": "Vanger手工真皮男鞋(台南南紡一館門市)"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
       "id": "7G8H9I0J-1234-5678-9012-345648901234",
       "deviceId": "Yilan-Wujie-0001",
       "shakingReportNumber": 0,
