@@ -1,0 +1,278 @@
+{
+  "items": [
+    {
+      "id": "7G8H9I0J-1234-5678-9012-345648901234",
+      "deviceId": "Yilan-Wujie-0001",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "宜蘭縣五結鄉",
+      "address": "宜蘭縣五結鄉五濱路一段40號",
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "https://www.healtdeva.com/",
+            "type": "homepage"
+          },
+          {
+            "type": "facebook",
+            "link": "https://www.facebook.com/healtdevaVillage/?locale=zh_TW"
+          },
+          {
+            "type": "instagram",
+            "link": "https://www.instagram.com/healtdeva/"
+          }
+        ],
+        "name": "Healtdeva 赫蒂法莊園"
+      },
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "24.65550284425811",
+      "earthquakeNumber": 0,
+      "longitude": "121.83212629482131",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "https://www.healtdeva.com/",
+            "type": "homepage"
+          },
+          {
+            "type": "facebook",
+            "link": "https://www.facebook.com/healtdevaVillage/?locale=zh_TW"
+          },
+          {
+            "type": "instagram",
+            "link": "https://www.instagram.com/healtdeva/"
+          }
+        ],
+        "name": "Healtdeva 赫蒂法莊園"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "8H9I0J1K-2345-6789-0123-456789012345",
+      "deviceId": "Yilan-Wujie-0001",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "宜蘭縣五結鄉",
+      "address": "宜蘭縣五結鄉利工二路68號",
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "24.65484864694485",
+      "earthquakeNumber": 0,
+      "longitude": "121.83716447864728",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "https://www.qsigma-sendingunit.com.tw/",
+            "type": "homepage"
+          }
+        ],
+        "name": "博越科技股份有限公司"
+      },
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "https://www.qsigma-sendingunit.com.tw/",
+            "type": "homepage"
+          }
+        ],
+        "name": "博越科技股份有限公司"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "8H9I0J1K-2335-6789-0123-456789012345",
+      "deviceId": "Hualian-Hualian-0001",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "花蓮縣花蓮市",
+      "address": "花蓮縣花蓮市國盛五街67號",
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "23.997593723873756",
+      "earthquakeNumber": 0,
+      "longitude": "121.60882143719495",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "https://shaneshy.com/",
+            "type": "homepage"
+          }
+        ],
+        "name": "山禾曙旅宿"
+      },
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "https://shaneshy.com/",
+            "type": "homepage"
+          }
+        ],
+        "name": "山禾曙旅宿"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "8H9I0J1K-2335-6789-0123-456749012345",
+      "deviceId": "Hualian-Hualian-0002",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "花蓮縣花蓮市",
+      "address": "花蓮縣花蓮市福建街14號",
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "23.966640868001523",
+      "earthquakeNumber": 0,
+      "longitude": "121.59806832665592",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "http://www.sym.com.tw/",
+            "type": "homepage"
+          }
+        ],
+        "name": "大慶機車行"
+      },
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "http://www.sym.com.tw/",
+            "type": "homepage"
+          }
+        ],
+        "name": "大慶機車行"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "8H9I0J1K-2335-6789-0123-456749312345",
+      "deviceId": "Hualian-Hualian-0003",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "花蓮縣吉安鄉",
+      "address": "花蓮縣吉安鄉吉安路六段31號",
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "23.950293247482435",
+      "earthquakeNumber": 0,
+      "longitude": "121.54868505618774",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "https://www.google.com.tw/maps/place/%E5%A4%A7%E9%99%B8%E9%BA%B5%E5%BA%97/@23.9501002,121.5488019,18.25z/data=!4m6!3m5!1s0x3468a1f29d41b1ad:0x179c036069e365bc!8m2!3d23.9501972!4d121.5486908!16s%2Fg%2F1tff0sbr?hl=zh-TW&entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D",
+            "type": "google"
+          }
+        ],
+        "name": "大陸麵店"
+      },
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "https://www.google.com.tw/maps/place/%E5%A4%A7%E9%99%B8%E9%BA%B5%E5%BA%97/@23.9501002,121.5488019,18.25z/data=!4m6!3m5!1s0x3468a1f29d41b1ad:0x179c036069e365bc!8m2!3d23.9501972!4d121.5486908!16s%2Fg%2F1tff0sbr?hl=zh-TW&entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D",
+            "type": "google"
+          }
+        ],
+        "name": "大陸麵店"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "8H9I0J1K-2335-6789-0123-456749322345",
+      "deviceId": "Hualian-Hualian-0004",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "花蓮縣壽豐鄉",
+      "address": "花蓮縣壽豐鄉魚池45號",
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "23.864904229420628",
+      "earthquakeNumber": 0,
+      "longitude": "121.52222764384105",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "https://shop.lichuan.tw/",
+            "type": "homepage"
+          }
+        ],
+        "name": "立川漁場 | 黃金蜆的故鄉"
+      },
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "https://shop.lichuan.tw/",
+            "type": "homepage"
+          }
+        ],
+        "name": "立川漁場 | 黃金蜆的故鄉"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}
