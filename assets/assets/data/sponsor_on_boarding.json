@@ -1,6 +1,318 @@
 {
   "items": [
     {
+      "id": "3C4D5E6F-7890-1234-5678-901234567890",
+      "deviceId": "Yilan-TaoCheng-0002",
+      "shortLocation": "宜蘭縣頭城鎮",
+      "address": "261宜蘭縣頭城鎮更新路125-1號",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "https://tcfarm.cyberbiz.co/zh-TW",
+            "type": "homepage"
+          }
+        ],
+        "name": "頭城農場"
+      },
+      "installation": "normal",
+      "uptimeMinute": 145395,
+      "status": "active",
+      "latitude": "24.910739742000505",
+      "earthquakeNumber": 0,
+      "longitude": "121.85028399625917",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "https://tcfarm.cyberbiz.co/zh-TW",
+            "type": "homepage"
+          }
+        ],
+        "name": "頭城農場"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "2B3C4D5E-6789-0123-4567-890123456789",
+      "deviceId": "Yilan-DongShang-0003",
+      "shortLocation": "宜蘭縣冬山鄉",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "locationSponsor": {
+        "links": [
+        ],
+        "name": "冬山陳先生"
+      },
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "active",
+      "latitude": "24.62522045217694",
+      "earthquakeNumber": 1,
+      "longitude": "121.79715205372271",
+      "deviceSponsor": {
+        "links": [
+        ],
+        "name": "冬山陳先生"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "9I0J3K2L-34e6-7890-1234-537893123456",
+      "deviceId": "Taichuang-Xi-0001",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "台中市西區",
+      "address": "台中市西區中興街177號",
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "https://shop.vanger.com.tw/pages/store",
+            "type": "homepage"
+          },
+          {
+            "type": "facebook",
+            "link": "https://www.facebook.com/vangermenshoes/?locale=zh_TW"
+          },
+          {
+            "type": "instagram",
+            "link": "https://www.instagram.com/vangershoes/"
+          }
+        ],
+        "name": "Vanger手工真皮男鞋(台中綠園道店)"
+      },
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "active",
+      "latitude": "24.150136303565198",
+      "earthquakeNumber": 0,
+      "longitude": "120.66281199603736",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "https://shop.vanger.com.tw/pages/store",
+            "type": "homepage"
+          },
+          {
+            "type": "facebook",
+            "link": "https://www.facebook.com/vangermenshoes/?locale=zh_TW"
+          },
+          {
+            "type": "instagram",
+            "link": "https://www.instagram.com/vangershoes/"
+          }
+        ],
+        "name": "Vanger手工真皮男鞋(台中綠園道店)"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "9I0J1K2L-3456-7890-1234-567893123456",
+      "deviceId": "Taipei-XinYi-0001",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "台北市信義區",
+      "address": "台北市信義區松仁路58號6F",
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "https://shop.vanger.com.tw/pages/store",
+            "type": "homepage"
+          },
+          {
+            "type": "facebook",
+            "link": "https://www.facebook.com/vangermenshoes/?locale=zh_TW"
+          },
+          {
+            "type": "instagram",
+            "link": "https://www.instagram.com/vangershoes/"
+          }
+        ],
+        "name": "Vanger手工真皮男鞋(信義遠百)"
+      },
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "active",
+      "latitude": "25.036969571249905",
+      "earthquakeNumber": 0,
+      "longitude": "121.56797805373539",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "https://shop.vanger.com.tw/pages/store",
+            "type": "homepage"
+          },
+          {
+            "type": "facebook",
+            "link": "https://www.facebook.com/vangermenshoes/?locale=zh_TW"
+          },
+          {
+            "type": "instagram",
+            "link": "https://www.instagram.com/vangershoes/"
+          }
+        ],
+        "name": "Vanger手工真皮男鞋(信義遠百)"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "9I0J1K2L-3456-7890-1234-537893123456",
+      "deviceId": "Taipei-Daann-0001",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "台北市大安區",
+      "address": "台北市大安區忠孝東路四段223巷56號1樓",
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "https://shop.vanger.com.tw/pages/store",
+            "type": "homepage"
+          },
+          {
+            "type": "facebook",
+            "link": "https://www.facebook.com/vangermenshoes/?locale=zh_TW"
+          },
+          {
+            "type": "instagram",
+            "link": "https://www.instagram.com/vangershoes/"
+          }
+        ],
+        "name": "Vanger手工真皮男鞋(台北東區)"
+      },
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "active",
+      "latitude": "25.04414477265204",
+      "earthquakeNumber": 1,
+      "longitude": "121.55313172344188",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "https://shop.vanger.com.tw/pages/store",
+            "type": "homepage"
+          },
+          {
+            "type": "facebook",
+            "link": "https://www.facebook.com/vangermenshoes/?locale=zh_TW"
+          },
+          {
+            "type": "instagram",
+            "link": "https://www.instagram.com/vangershoes/"
+          }
+        ],
+        "name": "Vanger手工真皮男鞋(台北東區)"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "9I0J1K2L-3456-7890-1234-567890123456",
+      "deviceId": "Xinbai-Xindian-0001",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "新北市新店區",
+      "address": "231新北市新店區中興路三段70號",
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "https://shop.vanger.com.tw/pages/store",
+            "type": "homepage"
+          },
+          {
+            "type": "facebook",
+            "link": "https://www.facebook.com/vangermenshoes/?locale=zh_TW"
+          },
+          {
+            "type": "instagram",
+            "link": "https://www.instagram.com/vangershoes/"
+          }
+        ],
+        "name": "Vanger手工真皮男鞋(裕隆門市)"
+      },
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "active",
+      "latitude": "24.97802453142753",
+      "earthquakeNumber": 0,
+      "longitude": "121.5465142819377",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "https://shop.vanger.com.tw/pages/store",
+            "type": "homepage"
+          },
+          {
+            "type": "facebook",
+            "link": "https://www.facebook.com/vangermenshoes/?locale=zh_TW"
+          },
+          {
+            "type": "instagram",
+            "link": "https://www.instagram.com/vangershoes/"
+          }
+        ],
+        "name": "Vanger手工真皮男鞋(裕隆門市)"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
       "id": "9I0J1K2L-34e6-7890-1234-537893123456",
       "deviceId": "Taipei-ZhongShan-0001",
       "shakingReportNumber": 0,
@@ -105,65 +417,6 @@
           }
         ],
         "name": "Vanger手工真皮男鞋(台南南紡一館門市)"
-      },
-      "activeRatio": 0.0,
-      "inactiveRatio": 1.0,
-      "shakingReportOneWeekPerDay": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "id": "7G8H9I0J-1234-5678-9012-345648901234",
-      "deviceId": "Yilan-Wujie-0001",
-      "shakingReportNumber": 0,
-      "deviceType": "mobile",
-      "shortLocation": "宜蘭縣五結鄉",
-      "address": "宜蘭縣五結鄉五濱路一段40號",
-      "locationSponsor": {
-        "links": [
-          {
-            "link": "https://www.healtdeva.com/",
-            "type": "homepage"
-          },
-          {
-            "type": "facebook",
-            "link": "https://www.facebook.com/healtdevaVillage/?locale=zh_TW"
-          },
-          {
-            "type": "instagram",
-            "link": "https://www.instagram.com/healtdeva/"
-          }
-        ],
-        "name": "Healtdeva 赫蒂法莊園"
-      },
-      "installation": "normal",
-      "uptimeMinute": 0,
-      "status": "inactive",
-      "latitude": "24.65550284425811",
-      "earthquakeNumber": 0,
-      "longitude": "121.83212629482131",
-      "deviceSponsor": {
-        "links": [
-          {
-            "link": "https://www.healtdeva.com/",
-            "type": "homepage"
-          },
-          {
-            "type": "facebook",
-            "link": "https://www.facebook.com/healtdevaVillage/?locale=zh_TW"
-          },
-          {
-            "type": "instagram",
-            "link": "https://www.instagram.com/healtdeva/"
-          }
-        ],
-        "name": "Healtdeva 赫蒂法莊園"
       },
       "activeRatio": 0.0,
       "inactiveRatio": 1.0,
