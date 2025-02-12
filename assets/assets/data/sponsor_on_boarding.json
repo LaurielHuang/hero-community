@@ -478,117 +478,23 @@
       "deviceId": "Hualian-Hualian-0001",
       "shakingReportNumber": 0,
       "deviceType": "mobile",
-      "shortLocation": "花蓮縣花蓮市",
-      "address": "花蓮縣花蓮市國盛五街67號",
-      "installation": "normal",
-      "uptimeMinute": 0,
-      "status": "inactive",
-      "latitude": "23.997593723873756",
-      "earthquakeNumber": 0,
-      "longitude": "121.60882143719495",
-      "deviceSponsor": {
-        "links": [
-          {
-            "link": "https://shaneshy.com/",
-            "type": "homepage"
-          }
-        ],
-        "name": "山禾曙旅宿"
-      },
-      "locationSponsor": {
-        "links": [
-          {
-            "link": "https://shaneshy.com/",
-            "type": "homepage"
-          }
-        ],
-        "name": "山禾曙旅宿"
-      },
-      "activeRatio": 0.0,
-      "inactiveRatio": 1.0,
-      "shakingReportOneWeekPerDay": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "id": "8H9I0J1K-2335-6789-0123-456749012345",
-      "deviceId": "Hualian-Hualian-0002",
-      "shakingReportNumber": 0,
-      "deviceType": "mobile",
-      "shortLocation": "花蓮縣花蓮市",
-      "address": "花蓮縣花蓮市福建街14號",
-      "installation": "normal",
-      "uptimeMinute": 0,
-      "status": "inactive",
-      "latitude": "23.966640868001523",
-      "earthquakeNumber": 0,
-      "longitude": "121.59806832665592",
-      "deviceSponsor": {
-        "links": [
-          {
-            "link": "http://www.sym.com.tw/",
-            "type": "homepage"
-          }
-        ],
-        "name": "大慶機車行"
-      },
-      "locationSponsor": {
-        "links": [
-          {
-            "link": "http://www.sym.com.tw/",
-            "type": "homepage"
-          }
-        ],
-        "name": "大慶機車行"
-      },
-      "activeRatio": 0.0,
-      "inactiveRatio": 1.0,
-      "shakingReportOneWeekPerDay": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "id": "8H9I0J1K-2335-6789-0123-456749312345",
-      "deviceId": "Hualian-Hualian-0003",
-      "shakingReportNumber": 0,
-      "deviceType": "mobile",
       "shortLocation": "花蓮縣吉安鄉",
-      "address": "花蓮縣吉安鄉吉安路六段31號",
+      "address": "花蓮縣吉安鄉",
       "installation": "normal",
       "uptimeMinute": 0,
       "status": "inactive",
-      "latitude": "23.950293247482435",
+      "latitude": "23.988312561142607",
       "earthquakeNumber": 0,
-      "longitude": "121.54868505618774",
+      "longitude": "121.58530643527449",
       "deviceSponsor": {
         "links": [
-          {
-            "link": "https://www.google.com.tw/maps/place/%E5%A4%A7%E9%99%B8%E9%BA%B5%E5%BA%97/@23.9501002,121.5488019,18.25z/data=!4m6!3m5!1s0x3468a1f29d41b1ad:0x179c036069e365bc!8m2!3d23.9501972!4d121.5486908!16s%2Fg%2F1tff0sbr?hl=zh-TW&entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D",
-            "type": "google"
-          }
         ],
-        "name": "大陸麵店"
+        "name": "何先生"
       },
       "locationSponsor": {
         "links": [
-          {
-            "link": "https://www.google.com.tw/maps/place/%E5%A4%A7%E9%99%B8%E9%BA%B5%E5%BA%97/@23.9501002,121.5488019,18.25z/data=!4m6!3m5!1s0x3468a1f29d41b1ad:0x179c036069e365bc!8m2!3d23.9501972!4d121.5486908!16s%2Fg%2F1tff0sbr?hl=zh-TW&entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D",
-            "type": "google"
-          }
         ],
-        "name": "大陸麵店"
+        "name": "何先生"
       },
       "activeRatio": 0.0,
       "inactiveRatio": 1.0,
@@ -607,31 +513,144 @@
       "deviceId": "Hualian-Hualian-0004",
       "shakingReportNumber": 0,
       "deviceType": "mobile",
-      "shortLocation": "花蓮縣壽豐鄉",
-      "address": "花蓮縣壽豐鄉魚池45號",
+      "shortLocation": "花蓮縣吉安鄉",
+      "address": "花蓮縣吉安鄉",
       "installation": "normal",
       "uptimeMinute": 0,
       "status": "inactive",
-      "latitude": "23.864904229420628",
+      "latitude": "23.98850049165875",
       "earthquakeNumber": 0,
-      "longitude": "121.52222764384105",
+      "longitude": "121.59023228539478",
+      "deviceSponsor": {
+        "links": [
+        ],
+        "name": "林先生"
+      },
+      "locationSponsor": {
+        "links": [
+        ],
+        "name": "林先生"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "8H9I0J1K-2335-6789-0123-456349322345",
+      "deviceId": "Taidong-Chishang-0001",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "台東縣池上鄉",
+      "address": "台東縣池上鄉",
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "23.124005979662808",
+      "earthquakeNumber": 0,
+      "longitude": "121.22213521068616",
       "deviceSponsor": {
         "links": [
           {
-            "link": "https://shop.lichuan.tw/",
+            "link": "https://www.highkart.com.tw",
             "type": "homepage"
           }
         ],
-        "name": "立川漁場 | 黃金蜆的故鄉"
+        "name": "High kart台東運營基地"
       },
       "locationSponsor": {
         "links": [
           {
-            "link": "https://shop.lichuan.tw/",
+            "link": "https://www.highkart.com.tw",
             "type": "homepage"
           }
         ],
-        "name": "立川漁場 | 黃金蜆的故鄉"
+        "name": "High kart台東運營基地"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "8H9I0J1K-2235-6789-0123-456349322345",
+      "deviceId": "Taidong-Chishang-0002",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "台東縣池上鄉",
+      "address": "台東縣池上鄉中正路294號",
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "23.124515245488826",
+      "earthquakeNumber": 0,
+      "longitude": "121.22087449534362",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "https://www.facebook.com/p/958窯烤披薩pizza-100088804899623/",
+            "type": "facebook"
+          }
+        ],
+        "name": "958窯烤披薩總店"
+      },
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "https://www.facebook.com/p/958窯烤披薩pizza-100088804899623/",
+            "type": "facebook"
+          }
+        ],
+        "name": "958窯烤披薩總店"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "8H9I0J1K-2245-6789-0123-456349322345",
+      "deviceId": "Taidong-Chishang-0003",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "台東縣池上鄉",
+      "address": "台東縣池上鄉",
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "23.126108745722103",
+      "earthquakeNumber": 0,
+      "longitude": "121.21511573952188",
+      "deviceSponsor": {
+        "links": [
+        ],
+        "name": "孫先生"
+      },
+      "locationSponsor": {
+        "links": [
+        ],
+        "name": "孫先生"
       },
       "activeRatio": 0.0,
       "inactiveRatio": 1.0,
