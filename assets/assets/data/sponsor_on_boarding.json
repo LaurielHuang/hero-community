@@ -663,6 +663,41 @@
         0,
         0
       ]
+    },
+    {
+      "id": "8H9I0J1K-2245-6289-0123-456349322345",
+      "deviceId": "Hualian-Hualian-0002",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "花蓮縣花蓮市",
+      "address": "花蓮縣花蓮市",
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "23.97246557515328",
+      "earthquakeNumber": 0,
+      "longitude": "121.5911465665334",
+      "deviceSponsor": {
+        "links": [
+        ],
+        "name": "黃先生"
+      },
+      "locationSponsor": {
+        "links": [
+        ],
+        "name": "黃先生"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     }
   ]
 }
