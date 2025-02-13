@@ -665,41 +665,6 @@
       ]
     },
     {
-      "id": "8H9I0J1K-2245-6289-0123-456349322345",
-      "deviceId": "Hualian-Hualian-0002",
-      "shakingReportNumber": 0,
-      "deviceType": "mobile",
-      "shortLocation": "花蓮縣花蓮市",
-      "address": "花蓮縣花蓮市",
-      "installation": "normal",
-      "uptimeMinute": 0,
-      "status": "inactive",
-      "latitude": "23.97246557515328",
-      "earthquakeNumber": 0,
-      "longitude": "121.5911465665334",
-      "deviceSponsor": {
-        "links": [
-        ],
-        "name": "黃先生"
-      },
-      "locationSponsor": {
-        "links": [
-        ],
-        "name": "黃先生"
-      },
-      "activeRatio": 0.0,
-      "inactiveRatio": 1.0,
-      "shakingReportOneWeekPerDay": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
       "id": "8H9I0J1K-2245-6289-02523-456349322345",
       "deviceId": "Hualian-Hualian-0003",
       "shakingReportNumber": 0,
@@ -756,6 +721,221 @@
         "links": [
         ],
         "name": "Tommy"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "8H9I0J1K-2245-6ˇ89-02523-456349e22345",
+      "deviceId": "Hualian-Hualian-0006",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "花蓮縣花蓮市",
+      "address": "花蓮縣花蓮市德安二街124號",
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "23.97359853879254",
+      "earthquakeNumber": 0,
+      "longitude": "121.59120380184643",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "https://www.facebook.com/DibusILAI/",
+            "type": "facebook"
+          },
+          {
+            "link": "https://www.instagram.com/dibus_ilai/",
+            "type": "instagram"
+          }
+        ],
+        "name": "笛布斯•顗賚"
+      },
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "https://www.facebook.com/DibusILAI/",
+            "type": "facebook"
+          },
+          {
+            "link": "https://www.instagram.com/dibus_ilai/",
+            "type": "instagram"
+          }
+        ],
+        "name": "笛布斯•顗賚"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "8H9I0J1K-2245-6ˇ89-02523-4563fej9e22345",
+      "deviceId": "Hualian-Hualian-0007",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "花蓮縣花蓮市",
+      "address": "花蓮縣花蓮市復興街26號",
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "23.97847156954396",
+      "earthquakeNumber": 0,
+      "longitude": "121.61104103915434",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "https://easttown26.com.tw/index.php",
+            "type": "homepage"
+          }
+        ],
+        "name": "東城商旅"
+      },
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "https://easttown26.com.tw/index.php",
+            "type": "homepage"
+          }
+        ],
+        "name": "東城商旅"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "8H9I0J-2245-6ˇ89-02523-4563fej9e22345",
+      "deviceId": "Hualian-Hualian-0008",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "花蓮縣花蓮市",
+      "address": "60-1, 60-1, 壽豐鄉花蓮縣",
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "23.888682352302684",
+      "earthquakeNumber": 0,
+      "longitude": "121.6013497301998",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "https://twstay.com/RWD2/index.aspx?BNB=dumai",
+            "type": "homepage"
+          }
+        ],
+        "name": "嘟邁海景漂木宿"
+      },
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "https://twstay.com/RWD2/index.aspx?BNB=dumai",
+            "type": "homepage"
+          }
+        ],
+        "name": "嘟邁海景漂木宿"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "8H9I0J-2245-6ˇd89-02523-4563fej9e22345",
+      "deviceId": "Hualian-Hualian-0009",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "花蓮縣壽豐鄉",
+      "address": "花蓮縣壽豐鄉志學忠孝147號",
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "23.912535228617966",
+      "earthquakeNumber": 0,
+      "longitude": "121.55977913045295",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "http://www.jojo33.com.tw/",
+            "type": "homepage"
+          }
+        ],
+        "name": "噗嚨共民宿"
+      },
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "http://www.jojo33.com.tw/",
+            "type": "homepage"
+          }
+        ],
+        "name": "噗嚨共民宿"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "8H9I0J-2245-6ˇd89-02523-45fej9e22345",
+      "deviceId": "Hualian-Hualian-0010",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "花蓮縣玉里鎮",
+      "address": "花蓮縣玉里鎮",
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "23.342403257944788",
+      "earthquakeNumber": 0,
+      "longitude": "121.31954265519776",
+      "deviceSponsor": {
+        "links": [
+        ],
+        "name": "林宅"
+      },
+      "locationSponsor": {
+        "links": [
+        ],
+        "name": "林宅"
       },
       "activeRatio": 0.0,
       "inactiveRatio": 1.0,
