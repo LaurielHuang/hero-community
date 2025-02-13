@@ -698,6 +698,76 @@
         0,
         0
       ]
+    },
+    {
+      "id": "8H9I0J1K-2245-6289-02523-456349322345",
+      "deviceId": "Hualian-Hualian-0003",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "花蓮縣吉安鄉",
+      "address": "花蓮縣吉安鄉",
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "23.95754737402021",
+      "earthquakeNumber": 0,
+      "longitude": "121.57114559603167",
+      "deviceSponsor": {
+        "links": [
+        ],
+        "name": "李先生"
+      },
+      "locationSponsor": {
+        "links": [
+        ],
+        "name": "李先生"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "8H9I0J1K-2245-6289-02523-456349e22345",
+      "deviceId": "Hualian-Hualian-0004",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "花蓮縣花蓮市",
+      "address": "花蓮縣花蓮市",
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "23.97092278900172",
+      "earthquakeNumber": 0,
+      "longitude": "121.60129215370304",
+      "deviceSponsor": {
+        "links": [
+        ],
+        "name": "Tommy"
+      },
+      "locationSponsor": {
+        "links": [
+        ],
+        "name": "Tommy"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     }
   ]
 }
