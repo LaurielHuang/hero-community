@@ -948,6 +948,57 @@
         0,
         0
       ]
+    },
+    {
+      "id": "8H9I0J-2245-6ˇd89-02523-45fejere22345",
+      "deviceId": "Taidong-Chishang-0011",
+      "shakingReportNumber": 0,
+      "deviceType": "mobile",
+      "shortLocation": "台東縣池上鄉",
+      "address": "台東縣池上鄉新開園4號",
+      "installation": "normal",
+      "uptimeMinute": 0,
+      "status": "inactive",
+      "latitude": "23.09956241982733",
+      "earthquakeNumber": 0,
+      "longitude": "121.22002595450404",
+      "deviceSponsor": {
+        "links": [
+          {
+            "link": "https://adobike.tw/",
+            "type": "homepage"
+          },
+          {
+            "type": "facebook",
+            "link": "https://www.facebook.com/AdoBike/?locale=zh_TW"
+          }
+        ],
+        "name": "鐵馬驛站阿度的店"
+      },
+      "locationSponsor": {
+        "links": [
+          {
+            "link": "https://adobike.tw/",
+            "type": "homepage"
+          },
+          {
+            "type": "facebook",
+            "link": "https://www.facebook.com/AdoBike/?locale=zh_TW"
+          }
+        ],
+        "name": "鐵馬驛站阿度的店"
+      },
+      "activeRatio": 0.0,
+      "inactiveRatio": 1.0,
+      "shakingReportOneWeekPerDay": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     }
   ]
 }
