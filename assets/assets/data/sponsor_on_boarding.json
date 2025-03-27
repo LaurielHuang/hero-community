@@ -544,49 +544,6 @@
       ]
     },
     {
-      "id": "8H9I0J1K-2335-6789-0123-456349322345",
-      "deviceId": "Taidong-Chishang-0001",
-      "shakingReportNumber": 0,
-      "deviceType": "mobile",
-      "shortLocation": "台東縣池上鄉",
-      "address": "台東縣池上鄉",
-      "installation": "normal",
-      "uptimeMinute": 0,
-      "status": "inactive",
-      "latitude": "23.124005979662808",
-      "earthquakeNumber": 0,
-      "longitude": "121.22213521068616",
-      "deviceSponsor": {
-        "links": [
-          {
-            "link": "https://www.highkart.com.tw",
-            "type": "homepage"
-          }
-        ],
-        "name": "High kart台東運營基地"
-      },
-      "locationSponsor": {
-        "links": [
-          {
-            "link": "https://www.highkart.com.tw",
-            "type": "homepage"
-          }
-        ],
-        "name": "High kart台東運營基地"
-      },
-      "activeRatio": 0.0,
-      "inactiveRatio": 1.0,
-      "shakingReportOneWeekPerDay": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
       "id": "8H9I0J1K-2235-6789-0123-456349322345",
       "deviceId": "Taidong-Chishang-0002",
       "shakingReportNumber": 0,
@@ -616,41 +573,6 @@
           }
         ],
         "name": "958窯烤披薩總店"
-      },
-      "activeRatio": 0.0,
-      "inactiveRatio": 1.0,
-      "shakingReportOneWeekPerDay": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
-      "id": "8H9I0J1K-2245-6789-0123-456349322345",
-      "deviceId": "Taidong-Chishang-0003",
-      "shakingReportNumber": 0,
-      "deviceType": "mobile",
-      "shortLocation": "台東縣池上鄉",
-      "address": "台東縣池上鄉",
-      "installation": "normal",
-      "uptimeMinute": 0,
-      "status": "inactive",
-      "latitude": "23.126108745722103",
-      "earthquakeNumber": 0,
-      "longitude": "121.21511573952188",
-      "deviceSponsor": {
-        "links": [
-        ],
-        "name": "孫先生"
-      },
-      "locationSponsor": {
-        "links": [
-        ],
-        "name": "孫先生"
       },
       "activeRatio": 0.0,
       "inactiveRatio": 1.0,
@@ -829,49 +751,6 @@
       ]
     },
     {
-      "id": "8H9I0J-2245-6ˇ89-02523-4563fej9e22345",
-      "deviceId": "Hualian-Hualian-0008",
-      "shakingReportNumber": 0,
-      "deviceType": "mobile",
-      "shortLocation": "花蓮縣花蓮市",
-      "address": "60-1, 60-1, 壽豐鄉花蓮縣",
-      "installation": "normal",
-      "uptimeMinute": 0,
-      "status": "inactive",
-      "latitude": "23.888682352302684",
-      "earthquakeNumber": 0,
-      "longitude": "121.6013497301998",
-      "deviceSponsor": {
-        "links": [
-          {
-            "link": "https://twstay.com/RWD2/index.aspx?BNB=dumai",
-            "type": "homepage"
-          }
-        ],
-        "name": "嘟邁海景漂木宿"
-      },
-      "locationSponsor": {
-        "links": [
-          {
-            "link": "https://twstay.com/RWD2/index.aspx?BNB=dumai",
-            "type": "homepage"
-          }
-        ],
-        "name": "嘟邁海景漂木宿"
-      },
-      "activeRatio": 0.0,
-      "inactiveRatio": 1.0,
-      "shakingReportOneWeekPerDay": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
       "id": "8H9I0J-2245-6ˇd89-02523-4563fej9e22345",
       "deviceId": "Hualian-Hualian-0009",
       "shakingReportNumber": 0,
@@ -915,78 +794,43 @@
       ]
     },
     {
-      "id": "8H9I0J-2245-6ˇd89-02523-45fej9e22345",
-      "deviceId": "Hualian-Hualian-0010",
-      "shakingReportNumber": 0,
-      "deviceType": "mobile",
-      "shortLocation": "花蓮縣玉里鎮",
-      "address": "花蓮縣玉里鎮",
-      "installation": "normal",
-      "uptimeMinute": 0,
-      "status": "inactive",
-      "latitude": "23.342403257944788",
-      "earthquakeNumber": 0,
-      "longitude": "121.31954265519776",
-      "deviceSponsor": {
-        "links": [
-        ],
-        "name": "林宅"
-      },
-      "locationSponsor": {
-        "links": [
-        ],
-        "name": "林宅"
-      },
-      "activeRatio": 0.0,
-      "inactiveRatio": 1.0,
-      "shakingReportOneWeekPerDay": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    {
       "id": "8H9I0J-2245-6ˇd89-02523-45fejere22345",
       "deviceId": "Taidong-Chishang-0011",
       "shakingReportNumber": 0,
       "deviceType": "mobile",
       "shortLocation": "台東縣池上鄉",
-      "address": "台東縣池上鄉新開園4號",
+      "address": "台東縣池上鄉新開園13號",
       "installation": "normal",
       "uptimeMinute": 0,
       "status": "inactive",
-      "latitude": "23.09956241982733",
+      "latitude": "23.10016439999999",
       "earthquakeNumber": 0,
-      "longitude": "121.22002595450404",
+      "longitude": "121.22092483678522",
       "deviceSponsor": {
         "links": [
           {
-            "link": "https://adobike.tw/",
-            "type": "homepage"
+            "link": "https://www.instagram.com/explore/locations/1803583473299521/",
+            "type": "instagram"
           },
           {
             "type": "facebook",
-            "link": "https://www.facebook.com/AdoBike/?locale=zh_TW"
+            "link": "https://www.facebook.com/p/%E8%97%8D%E9%9C%86%E8%87%AA%E8%A1%8C%E8%BB%8A%E5%87%BA%E7%A7%9F-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93%E6%AD%A3%E5%85%A5%E5%8F%A3-100063491396967/?locale=zh_TW"
           }
         ],
-        "name": "鐵馬驛站阿度的店"
+        "name": "藍霆自行車出租"
       },
       "locationSponsor": {
         "links": [
           {
-            "link": "https://adobike.tw/",
-            "type": "homepage"
+            "link": "https://www.instagram.com/explore/locations/1803583473299521/",
+            "type": "instagram"
           },
           {
             "type": "facebook",
-            "link": "https://www.facebook.com/AdoBike/?locale=zh_TW"
+            "link": "https://www.facebook.com/p/%E8%97%8D%E9%9C%86%E8%87%AA%E8%A1%8C%E8%BB%8A%E5%87%BA%E7%A7%9F-%E4%BC%AF%E6%9C%97%E5%A4%A7%E9%81%93%E6%AD%A3%E5%85%A5%E5%8F%A3-100063491396967/?locale=zh_TW"
           }
         ],
-        "name": "鐵馬驛站阿度的店"
+        "name": "藍霆自行車出租"
       },
       "activeRatio": 0.0,
       "inactiveRatio": 1.0,
